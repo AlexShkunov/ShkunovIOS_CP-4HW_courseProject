@@ -1,5 +1,5 @@
 # Aleksandr Shkunov
-![](img/IMG_0004.pxd)
+![](img/IMG_0004.png)
 I study at the University, my specialization is public administration. My hobby is modeling and FPV flying. Sometimes I play computer games with my friends
 Skills:
 * Video and photo editing
